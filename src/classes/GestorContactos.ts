@@ -11,5 +11,5 @@ agenda.mostrarListaDeContactos();
 
 agenda.buscarContactoPorNombre('rocio'); 
 
-// Puedes seguir agregando más contactos y realizando búsquedas según sea necesario.
+
   
